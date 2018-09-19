@@ -1,0 +1,37 @@
+
+label {
+    display:block;
+}
+
+.big-checkbox {
+    width: 30px; 
+    height: 30px;
+}
+#datesCol {
+    margin-right: 20px;
+}
+.buttonSame {
+    padding : 10px;
+}
+
+#addhoursCol {
+    padding : 10px; 
+}
+
+#submit {
+    padding-top : 20px;
+    clear:both;
+}
+
+.HourColl {
+    margin-right: 20px;
+}
+
+.whitebg{
+    background-color: white;
+}
+
+.greenishbg{
+    background-color: #CDEAA1
+}
+
